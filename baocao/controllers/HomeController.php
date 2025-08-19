@@ -2,7 +2,7 @@
 
 class HomeController
 {
-
+    public $courses;
     
 
     public function index() 
